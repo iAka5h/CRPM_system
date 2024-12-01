@@ -68,13 +68,13 @@ Import the provided schema file (schema.sql) to create the database.
 ### Data Analysis 📊
 • Generate visualizations using matplotlib and seaborn.
 ### Testing ✅
-• Unit test backend modules for data integrity.
-• Perform usability testing for the frontend.
+- Unit test backend modules for data integrity.
+- Perform usability testing for the frontend.
 ---
 ## Acknowledgments 🙌
-• Streamlit for the frontend framework.
-• SQLAlchemy for database management.
-• Matplotlib & Seaborn for data visualization.
+- Streamlit for the frontend framework.
+- SQLAlchemy for database management.
+- Matplotlib & Seaborn for data visualization.
 ---
 ## Contact 📩
 
